@@ -13,10 +13,10 @@ import java.sql.SQLException;
  */
 public class TestKoneksi {
     public static void main(String[] args) {
-        String url = "jdbc:mysql://localhost:3309/db_inventaris_lab" + 
+        String url = "jdbc:mysql://localhost:3306/db_inventaris_lab" + 
                 "?sslMode=DISABLED&allowPublicKeyRetrieval=true";
         String user = "root";
-        String password = "@MYqep_1913!";
+        String password = "";
         
         try (
                 Connection conn = DriverManager.getConnection(url, user, password)
