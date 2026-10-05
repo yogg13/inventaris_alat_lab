@@ -1,0 +1,8 @@
+com\mycompany\inventarislabgui\model\Alat.class
+com\mycompany\inventarislabgui\TestKoneksi.class
+com\mycompany\inventarislabgui\InventarisLabGUI.class
+com\mycompany\inventarislabgui\view\AlatView.class
+com\mycompany\inventarislabgui\view\AlatView$1.class
+com\mycompany\inventarislabgui\controller\AlatController.class
+com\mycompany\inventarislabgui\model\Database.class
+com\mycompany\inventarislabgui\Main.class
